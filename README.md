@@ -62,4 +62,20 @@ The dataset contains:
 
 ---
 
-## Repository Structure
+## How to Use
+1. Clone this repo:  
+   ```bash
+   git clone https://github.com/MayeDiaz818/Retail-Sales-Analysis-SQL-PowerBI.git
+2. Import CSV files into PostgreSQL.
+3. Run queries from /sql to reproduce analysis.
+4. Open the Power BI file to explore interactive dashboards (In Progress).
+
+## 🔹 Closing Reflection
+
+This project was a valuable experience to strengthen my Data Analyst skills. I applied SQL for data cleaning, EDA, and business analysis, and used Power BI for clear visualization. It helped me practice turning business questions into measurable KPIs and actionable insights — an essential skill set for real-world analytics.
+
+## Author
+
+👤 Mayerlin Díaz – Data Analyst
+🔗 [LinkedIn](www.linkedin.com/in/mayerlin-diaz)
+
