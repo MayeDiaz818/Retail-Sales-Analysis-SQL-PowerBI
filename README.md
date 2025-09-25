@@ -77,5 +77,5 @@ This project was a valuable experience to strengthen my Data Analyst skills. I a
 ## Author
 
 👤 Mayerlin Díaz – Data Analyst
-🔗 [LinkedIn](www.linkedin.com/in/mayerlin-diaz)
+🔗 [LinkedIn]([www.linkedin.com/in/mayerlin-diaz](https://www.linkedin.com/in/mayerlin-diaz-623986256/))
 
