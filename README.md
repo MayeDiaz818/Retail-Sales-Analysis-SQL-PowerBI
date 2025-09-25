@@ -1,13 +1,13 @@
 # 🛍️ Retail Sales Analysis (PostgreSQL + Power BI)
 
-## Overview
+## 📁 Overview
 This project demonstrates an **end-to-end retail sales analytics pipeline**, starting from raw data ingestion in PostgreSQL, data cleaning and exploration with SQL, and final visualization with Power BI.  
 
 The dataset simulates a retail business environment with **5,000+ transactions**, multiple stores, customers, and product categories.  
 
 ---
 
-## Objectives
+## 🎯 Objectives
 - Import, clean, and structure raw retail sales data into PostgreSQL.  
 - Perform **SQL-based EDA** and answer key business questions:
   - Top products and categories by sales & profit  
@@ -21,7 +21,7 @@ The dataset simulates a retail business environment with **5,000+ transactions**
 
 ---
 
-## Tools & Skills
+## ⚙️ Tools & Skills
 - **PostgreSQL** – Data storage, EDA, business analysis queries  
 - **Power BI Desktop** – Interactive dashboards  
 - **SQL** – Joins, CTEs, Window Functions, Subqueries, Aggregations  
