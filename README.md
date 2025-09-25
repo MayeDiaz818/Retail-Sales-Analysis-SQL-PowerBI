@@ -31,7 +31,7 @@ The dataset simulates a retail business environment with **5,000+ transactions**
 
 ## 📊 Dataset
 Source: [Kaggle – Retail Sales Dataset](https://www.kaggle.com/datasets/buharishehu/retail-sales-dataset/data) 
-- **Processed Version (this repo):** [View CSV Files](dataset)
+- **Processed Version (this repo):** [View CSV Files](Dataset)
 
 The dataset contains:
 - **Customers**: demographics and membership details  
