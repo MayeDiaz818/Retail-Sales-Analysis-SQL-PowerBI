@@ -43,7 +43,7 @@ Source: [Kaggle – Retail Sales Dataset](https://www.kaggle.com/datasets/buhari
 - 📄 [Full Project Report (PDF)](Retail_Sales_Report.pdf)  
   Contains project objectives, EDA in SQL, business analysis, and conclusions.
 
-- 💻 [SQL Queries](sql/retail_sales_analysis.sql)  
+- 💻 [SQL Queries](retail_sales_analysis.sql)  
   Includes data cleaning, exploratory queries, and business analysis (CTEs, Window Functions, Aggregations).  
 
 ---
