@@ -1,7 +1,7 @@
-# 🛍️ Retail Sales Analysis (PostgreSQL + Power BI)
+# 🛍️ Retail Sales Analysis (PostgreSQL + Tableau)
 
 ## 📁 Overview
-This project demonstrates an **end-to-end retail sales analytics pipeline**, starting from raw data ingestion in PostgreSQL, data cleaning and exploration with SQL, and final visualization with Power BI.  
+This project demonstrates an **end-to-end retail sales analytics pipeline**, starting from raw data ingestion in PostgreSQL, data cleaning and exploration with SQL, and final visualization with Tableau.  
 
 The dataset simulates a retail business environment with **5,000+ transactions**, multiple stores, customers, and product categories.  
 
@@ -17,13 +17,13 @@ The dataset simulates a retail business environment with **5,000+ transactions**
   - Average Order Value (AOV) & Customer Lifetime Value (CLV)  
   - Impact of discounts on revenue and profit  
   - Profit margins by product  
-- Build a **Power BI dashboard** to communicate insights visually.  
+- Build a **Tableau dashboard** to communicate insights visually.  
 
 ---
 
 ## ⚙️ Tools & Skills
 - **PostgreSQL** – Data storage, EDA, business analysis queries  
-- **Power BI Desktop** – Interactive dashboards  
+- **Tableau Desktop** – Interactive dashboards  
 - **SQL** – Joins, CTEs, Window Functions, Subqueries, Aggregations  
 - **Data Storytelling** – Presenting analysis and actionable business insights  
 
@@ -47,8 +47,11 @@ The dataset contains:
   Contains project objectives, EDA in SQL, business analysis, and conclusions.
 
 - 💻 [SQL Queries](retail_sales_analysis.sql)  
-  Includes data cleaning, exploratory queries, and business analysis (CTEs, Window Functions, Aggregations).  
+  Includes data cleaning, exploratory queries, and business analysis (CTEs, Window Functions, Aggregations).
 
+- 🔹 [Dashboard Preview] ()
+  
+- 🌍 [Explore on Tableau Public]()
 ---
 
 ## Key Insights
