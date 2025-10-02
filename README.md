@@ -49,7 +49,7 @@ The dataset contains:
 - 💻 [SQL Queries](retail_sales_analysis.sql)  
   Includes data cleaning, exploratory queries, and business analysis (CTEs, Window Functions, Aggregations).
 
-- 🔹 [Dashboard Preview] ()
+- 🔹 [Dashboard Preview](Retail Sales Dashboard .png)
   
 - 🌍 [Explore on Tableau Public]()
 ---
