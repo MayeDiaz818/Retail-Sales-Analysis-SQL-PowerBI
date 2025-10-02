@@ -49,7 +49,7 @@ The dataset contains:
 - 💻 [SQL Queries](retail_sales_analysis.sql)  
   Includes data cleaning, exploratory queries, and business analysis (CTEs, Window Functions, Aggregations).
 
-- 🔹 [Dashboard Preview](Retail_Sales_Dashboard.png)
+- 🔹 [Dashboard Preview](Retail_Sales_Dashboard .png) 
   
 - 🌍 [Explore on Tableau Public](https://public.tableau.com/app/profile/trevor4704/viz/DashboardRetailSales/RetailSalesDashboard)
 ---
@@ -71,13 +71,13 @@ The dataset contains:
    git clone https://github.com/MayeDiaz818/Retail-Sales-Analysis-SQL-PowerBI.git
 2. Import CSV files into PostgreSQL.
 3. Run queries from /sql to reproduce analysis.
-4. Open the Power BI file to explore interactive dashboards (In Progress).
+4. Open Tableau Public to explore interactive dashboards.
 
 ---
 
 ## 🔹 Closing Reflection
 
-This project was a valuable experience to strengthen my Data Analyst skills. I applied SQL for data cleaning, EDA, and business analysis, and used Power BI for clear visualization. It helped me practice turning business questions into measurable KPIs and actionable insights — an essential skill set for real-world analytics.
+This project was a valuable experience to strengthen my Data Analyst skills. I applied SQL for data cleaning, EDA, and business analysis, and used Tableau for clear visualization. It helped me practice turning business questions into measurable KPIs and actionable insights — an essential skill set for real-world analytics.
 
 ## Author
 👤 **Mayerlin Díaz**    
